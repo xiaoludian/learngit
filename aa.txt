@@ -1,2 +1,3 @@
 Git is a distributed system.
 Git is shoufei software
+Creating a new branch is quick.
